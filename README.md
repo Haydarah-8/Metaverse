@@ -2,7 +2,6 @@
 
 A stunning, modern metaverse landing page built with Next.js 13, featuring smooth animations and a sleek design that showcases the future of virtual experiences.
 
-![Metaverse Preview](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
 
 ## ✨ Features
 
