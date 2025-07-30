@@ -123,6 +123,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Live Demo**: [View Live Site](https://metaverse-sage-psi.vercel.app/)
-
-Made with ❤️ for the metaverse community
