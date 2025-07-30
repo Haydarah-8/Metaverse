@@ -34,8 +34,8 @@ A stunning, modern metaverse landing page built with Next.js 13, featuring smoot
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
-   cd project_metaverse-main
+   git clone https://github.com/Haydarah-8/Metaverse.git
+   cd Metaverse
    ```
 
 2. **Install dependencies**
